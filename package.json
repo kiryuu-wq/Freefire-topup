@@ -1,1 +1,17 @@
-
+{
+  "name": "topup-freefire",
+  "version": "1.0.0",
+  "description": "Website Top Up Free Fire",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "freefire",
+    "topup",
+    "diamond"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
